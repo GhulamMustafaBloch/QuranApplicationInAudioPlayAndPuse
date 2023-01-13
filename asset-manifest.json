@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuranApplicationInAudioPlayAndPuse/static/css/main.00e03f2d.css",
+    "main.js": "/QuranApplicationInAudioPlayAndPuse/static/js/main.cf2bc35a.js",
+    "index.html": "/QuranApplicationInAudioPlayAndPuse/index.html",
+    "main.00e03f2d.css.map": "/QuranApplicationInAudioPlayAndPuse/static/css/main.00e03f2d.css.map",
+    "main.cf2bc35a.js.map": "/QuranApplicationInAudioPlayAndPuse/static/js/main.cf2bc35a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e03f2d.css",
+    "static/js/main.cf2bc35a.js"
+  ]
+}
